@@ -105,7 +105,7 @@ gpt2-genius-tutor-finetuned-final/
 
 Want to test without installing anything?
 
-👉 Run in Google Colab
+👉 https://colab.research.google.com/drive/17pf-dXnPDP6uwBXR5M_KPEZ-SpBo2aCQ?usp=sharing
 
 👨‍💼 Author
 

@@ -1,0 +1,11 @@
+venv/
+*.exe
+*.dll
+*.lib
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.zip
+*.tar
+__pycache__/

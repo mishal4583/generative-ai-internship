@@ -99,8 +99,6 @@ gpt2-genius-tutor-finetuned-final/
 
 📸 Preview
 
-(Replace this with an actual screenshot if needed)
-
 🤝 Try in Google Colab
 
 Want to test without installing anything?
